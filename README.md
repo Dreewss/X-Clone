@@ -12,5 +12,5 @@ Este é um clone simplificado da interface do X (antigo Twitter), desenvolvido u
 - CSS
 
 
-![x-clone]()
+![x-clone](https://github.com/Dreewss/X-Clone/blob/main/x-clone.png)
 
